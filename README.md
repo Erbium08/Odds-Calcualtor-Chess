@@ -1,5 +1,5 @@
 ## Example Usage
-**1. Create two empty Json files in a `Data`:**
+**1. Create two empty Json files in a `Data` Folder:**
 
     bets.json
     players.json
