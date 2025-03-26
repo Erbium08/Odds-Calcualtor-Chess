@@ -1,0 +1,72 @@
+{
+    "Eoin Dinneen": {
+        "bets": [
+            {
+                "player": "Eoin Dinneen",
+                "bet_type": "win",
+                "amount": 100.0,
+                "odds": "53/15",
+                "potential_payout": 453.0,
+                "result": "loss",
+                "actual_payout": 0
+            }
+        ],
+        "total_payout": 0
+    },
+    "Daniel Burton": {
+        "bets": [
+            {
+                "player": "Eoin Dinneen",
+                "bet_type": "win",
+                "amount": 150.0,
+                "odds": "64/15",
+                "potential_payout": 790.5,
+                "result": "loss",
+                "actual_payout": 0
+            }
+        ],
+        "total_payout": 0
+    },
+    "Alex Totton": {
+        "bets": [
+            {
+                "player": "Alex Ballard",
+                "bet_type": "win",
+                "amount": 150.0,
+                "odds": "1/15",
+                "potential_payout": 156.0,
+                "result": "loss",
+                "actual_payout": 0
+            }
+        ],
+        "total_payout": 0
+    },
+    "Tristan Fernandez": {
+        "bets": [
+            {
+                "player": "Eoin Dinneen",
+                "bet_type": "win",
+                "amount": 1.0,
+                "odds": "12/1",
+                "potential_payout": 13.01,
+                "result": "loss",
+                "actual_payout": 0
+            }
+        ],
+        "total_payout": 0
+    },
+    "Eoin ": {
+        "bets": [
+            {
+                "player": "Tristan Fernandez",
+                "bet_type": "win",
+                "amount": 150.0,
+                "odds": "0/1",
+                "potential_payout": 147.0,
+                "result": "win",
+                "actual_payout": 147.0
+            }
+        ],
+        "total_payout": 147.0
+    }
+}
